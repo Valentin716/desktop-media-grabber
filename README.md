@@ -29,6 +29,3 @@ Si deseas ejecutar el código fuente desde tu entorno local, necesitas contar co
 ## 📦 Instalación y Uso Local
 
 1. **Clona el repositorio:**
-   ```bash
-   git clone [https://github.com/tu-usuario/yt-media-downloader.git](https://github.com/tu-usuario/yt-media-downloader.git)
-   cd yt-media-downloader
